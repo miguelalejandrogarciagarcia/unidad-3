@@ -1,0 +1,1 @@
+datos_instancia <- read.csv("C:/Users/ALEJANDRO GARCIA/Desktop/instancia_ejemplo.txt",FALSE, ",")
